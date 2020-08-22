@@ -24,6 +24,11 @@ npm i
 npm run dev
 ```
 
+### Endpoint
+```sh
+http://localhost:3003/api/todos
+```
+
 ### Production
 ```sh
 npm run production
