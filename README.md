@@ -1,6 +1,8 @@
-<p align="center"><h1 align="center">
-  API Node-Restful ToDo App
-</h1>
+<p align="center">
+  <h1 align="center">
+    API Node-Restful ToDo App
+  </h1>
+</p>
 
 ## About
 Este Projeto foi desenvolvido para fins acadêmicos através do curso [Curso React + Redux: Fundamentos e 2 Apps do Absoluto ZERO!](https://www.udemy.com/course/react-redux-pt/) da [Cod3r](https://github.com/cod3rcursos).
