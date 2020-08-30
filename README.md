@@ -36,6 +36,8 @@ http://localhost:3003/api/todos
 npm run production
 ```
 
+Projeto [frontend](https://github.com/Jhonatan-Pereira/react_todo_app).
+
 # Author
 
 Jhonatan Frade <jhonatanfrade.pereira@gmail.com>
